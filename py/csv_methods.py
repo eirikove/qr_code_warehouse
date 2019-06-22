@@ -3,8 +3,8 @@ import csv
 import datetime
 
 
-log_file_path = "/home/eirik/Desktop/varelager_regsystem/qr_code_warehouse/csv/rental_log.csv"
-storage_file_path = "/home/eirik/Desktop/varelager_regsystem/qr_code_warehouse/csv/warehouse_storage.csv"
+log_file_path = "YOUR_FILE_PATH_HERE"
+storage_file_path = "YOUR_FILE_PATH_HERE"
 
 
 def reg_new_item(name, description, qr_code_id):
